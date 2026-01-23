@@ -1,0 +1,36 @@
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\appsettings.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Web Api division.staticwebassets.endpoints.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Web Api division.exe
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Web Api division.deps.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Web Api division.runtimeconfig.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Web Api division.dll
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Web Api division.pdb
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.csproj.AssemblyReference.cache
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.AssemblyInfoInputs.cache
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.AssemblyInfo.cs
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.csproj.CoreCompileInputs.cache
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\scopedcss\bundle\Web Api division.styles.css
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets\msbuild.Web Api division.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets\msbuild.Web Api division.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets\msbuild.build.Web Api division.props
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web Api division.props
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web Api division.props
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api .9C7DDAF7.Up2Date
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.dll
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\refint\Web Api division.dll
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.pdb
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\Web Api division.genruntimeconfig.cache
+C:\Users\3457862348975\Desktop\Task 1-5\Web Api division\Web Api division\obj\Debug\net8.0\ref\Web Api division.dll
